@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "theme-ncbi@git+https://github.com/jatspan/theme-ncbi.git#2.1.1"
+    "theme-ncbi@git+https://github.com/Klortho/theme-ncbi.git#2.1.2"
   ],
   "pluginsConfig": {}
 }
