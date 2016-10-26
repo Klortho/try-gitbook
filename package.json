@@ -1,14 +1,16 @@
 {
-  "name": "tgb",
-  "version": "1.0.0",
-  "description": "",
+  "name": "try-theme-ncbi",
+  "version": "0.0.1",
+  "description": "Kick the tires",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "NCBI",
+  "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
+    "gitbook-api": "^2.1.3",
+    "gitbook-cli": "^2.3.0",
     "gitbook-plugin-theme-ncbi": "0.0.1"
   }
 }
